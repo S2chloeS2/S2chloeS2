@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Chloe (S2chloeS2)
 
-<!--
-**S2chloeS2/S2chloeS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer with a full stack in design,  
+currently studying Computer Science at **Columbia University**.
 
-Here are some ideas to get you started:
+🛠️ I build web applications using **React** and **Python**,  
+with a focus on clean code, intuitive UX, and real-world usability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Before transitioning into tech, I spent over 5 years as a fashion and graphic designer —  
+a background that helps me create user-friendly and visually compelling interfaces.
+
+---
+
+## 💻 Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript, React (learning)
+- **Backend**: Python (LeetCode), Flask (learning)
+- **Design Tools**: Figma, Adobe Suite, Procreate
+
+---
+
+## ✨ Featured Projects
+
+- 🔗 [Portfolio Website](https://github.com/S2chloeS2/portfolio-site)  
+- 🧠 [LeetCode Practice](https://github.com/S2chloeS2/leet-practice)  
+- 🤖 [AI Projects](https://github.com/S2chloeS2/ai-projects)
+
+---
+
+## 📚 Ongoing Learning
+
+- React (Coursera Meta Front-End Developer Path)
+- Python Algorithm Practice (LeetCode)
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/yourname)  
+- 💌 Email: cl4490@email.com
