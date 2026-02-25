@@ -21,7 +21,7 @@ a background that helps me create user-friendly and visually compelling interfac
 
 ## ✨ Featured Projects
 
-- 🔗 [Portfolio Website](https://github.com/S2chloeS2/portfolio-site)  
+- 🔗 [Portfolio Website](https://www.fallinchloe.com/)  
 - 🧠 [LeetCode Practice](https://github.com/S2chloeS2/leet-practice)  
 - 🤖 [AI Projects](https://github.com/S2chloeS2/ai-projects)
 
