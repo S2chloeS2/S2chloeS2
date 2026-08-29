@@ -13,7 +13,7 @@ I write the spec, design the screens, build the app, and ship it. The whole loop
 
 | Project | What it is | Built with |
 |---|---|---|
-| **Tipo** | Tip tracking & settlement for people who work for tips (iOS) | React Native · Expo · Firebase |
+| **[Tipo](https://apps.apple.com/us/app/tipo-tip-tracker/id6789645296)** 🚀 | Tip tracking & settlement for people who work for tips — **live on the App Store** | React Native · Expo · Firebase |
 | **NOOK** | A quiet desktop companion that lives in the corner of your screen | Tauri 2 · React 19 · Canvas 2D |
 | **Squish Studio** | Squishy toys you play with through your webcam, by hand | MediaPipe · Three.js |
 | **오늘, 맑음** | A period diary disguised as a weather app | Flutter |
@@ -37,4 +37,4 @@ Natural Language Processing · Computer Animation · Artificial Intelligence · 
 **cl4490@columbia.edu**
 
 <!-- TODO: add LinkedIn once the profile URL is confirmed -->
-<!-- TODO: link Tipo / NOOK / Squish Studio / 오늘,맑음 rows once each repo is public -->
+<!-- TODO: link NOOK / Squish Studio / 오늘,맑음 rows once each repo is public -->
