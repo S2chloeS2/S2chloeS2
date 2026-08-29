@@ -1,40 +1,40 @@
-# 👋 Hi, I'm Chloe (S2chloeS2)
+# Chloe Lee
 
-I'm a developer with a full stack in design,  
-currently studying Computer Science at **Columbia University**.
+**I take products from spec to storefront — alone.**
 
-🛠️ I build web applications using **React** and **Python**,  
-with a focus on clean code, intuitive UX, and real-world usability.
+Fashion and graphic designer for five years, now studying Computer Science at Columbia University.
+I write the spec, design the screens, build the app, and ship it. The whole loop, one person.
 
-Before transitioning into tech, I spent over 5 years as a fashion and graphic designer —  
-a background that helps me create user-friendly and visually compelling interfaces.
+📍 New York, NY · 🌐 [fallinchloe.com](https://fallinchloe.com)
 
 ---
 
-## 💻 Tech Stack
+### Selected work
 
-- **Frontend**: HTML, CSS, JavaScript, React (learning)
-- **Backend**: Python (LeetCode), Flask (learning)
-- **Design Tools**: Figma, Adobe Suite, Procreate
+| Project | What it is | Built with |
+|---|---|---|
+| **Tipo** | Tip tracking & settlement for people who work for tips (iOS) | React Native · Expo · Firebase |
+| **NOOK** | A quiet desktop companion that lives in the corner of your screen | Tauri 2 · React 19 · Canvas 2D |
+| **Squish Studio** | Squishy toys you play with through your webcam, by hand | MediaPipe · Three.js |
+| **오늘, 맑음** | A period diary disguised as a weather app | Flutter |
 
----
+### Stack
 
-## ✨ Featured Projects
+| | |
+|---|---|
+| **Mobile** | React Native (Expo) · Flutter · SwiftUI |
+| **Web** | TypeScript · React · Next.js · Three.js |
+| **Backend** | Supabase · Firebase · Prisma · Flask |
+| **AI / CV** | PyTorch · PPO & DQN · YOLOv8 · StyleGAN3 |
+| **Design** | Figma · Adobe Suite · Procreate · design systems |
 
-- 🔗 [Portfolio Website](https://www.fallinchloe.com/)  
-- 🧠 [LeetCode Practice](https://github.com/S2chloeS2/leet-practice)  
-- 🤖 [AI Projects](https://github.com/S2chloeS2/ai-projects)
+### Columbia CS
 
----
+Natural Language Processing · Computer Animation · Artificial Intelligence · Deep Learning for Vision
 
-## 📚 Ongoing Learning
+### Contact
 
-- React (Coursera Meta Front-End Developer Path)
-- Python Algorithm Practice (LeetCode)
+**cl4490@columbia.edu**
 
----
-
-## 📫 Let's Connect
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yourname)  
-- 💌 Email: cl4490@email.com
+<!-- TODO: add LinkedIn once the profile URL is confirmed -->
+<!-- TODO: link Tipo / NOOK / Squish Studio / 오늘,맑음 rows once each repo is public -->
