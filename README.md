@@ -18,7 +18,7 @@ I write the spec, design the screens, build the app, and ship it. The whole loop
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/S2chloeS2/S2chloeS2/main/assets/tipo_logo.png" width="72" alt="Tipo">
+<img src="https://raw.githubusercontent.com/S2chloeS2/S2chloeS2/main/assets/tipo_icon.png" width="72" alt="Tipo">
 
 ### Tipo — 팁 기록 &amp; 정산
 
