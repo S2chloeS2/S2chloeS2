@@ -9,7 +9,8 @@ Five years as a fashion &amp; graphic designer before I wrote my first line of p
 I define the problem, design the experience, build the app, and ship it to real users.</sub>
 
 ![New York](https://img.shields.io/badge/New_York,_NY-2D3158?style=flat-square)
-[![Website](https://img.shields.io/badge/fallinchloe.com-DB6089?style=flat-square)](https://fallinchloe.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-DB6089?style=flat-square)](https://s2chloes2.github.io/portfolio/)
+[![Website](https://img.shields.io/badge/fallinchloe.com-9A9CB5?style=flat-square)](https://fallinchloe.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2D3158?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chloe-jooyeon-lee)
 
 </div>
