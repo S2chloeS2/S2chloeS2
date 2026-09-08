@@ -9,7 +9,7 @@ B.A. Computer Science / Visual Art @ Columbia · Teaching Assistant, <i>Designin
 Five years as a fashion &amp; graphic designer before I wrote my first line of production code.<br>
 I write the spec, design the screens, build the app, and ship it to real users — alone.</sub>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-DB6089?style=for-the-badge)](https://s2chloes2.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-DB6089?style=for-the-badge)](https://fallinchloe.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2D3158?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chloe-jooyeon-lee)
 ![New York](https://img.shields.io/badge/New_York,_NY-6B6E8F?style=for-the-badge)
 
@@ -37,7 +37,7 @@ thing as an app on the App Store, and I have done both.
 | 🐕 | **[Labor Detection Model](https://ai-photo-eosin-eta.vercel.app)** — score a dog walker's labour from a photograph, then read the longer list of what no vision model can see. | Interactive web · CV |
 | 🎧 | **[TranscriptoAI](https://transcripto-ai-bahc.onrender.com)** — transcribes a lecture, summarises it, and answers *only* from what was actually said in the room. Piloted by 50+ students. | Python · Flask · Whisper · AssemblyAI |
 | 😄 | **[Humor Project](https://humor-project-chloe.vercel.app)** — teaching a model a *style* of humor via ordered prompt chains, with a [chain authoring tool](https://humor-project-bay.vercel.app) and an [admin](https://human-admin.vercel.app). | Next.js · TypeScript · LLM |
-| 🗄 | **[Portfolio](https://s2chloes2.github.io/portfolio/)** — a cabinet of works you walk through rather than scroll. Hand-built, no template. | React Three Fiber · GSAP |
+| 🗄 | **[fallinchloe.com](https://fallinchloe.com)** — the portfolio: everything below, with the work written up properly. | — |
 | 🫧 | **[Squish Studio](https://s2chloes2.github.io/squish-studio/)** — a small hand-tracked toy: pinch a jelly and it stretches, make a fist and a wax ball cracks. A weekend-scale piece, but the soft-body deformation, the breakage state machine and the audio are all written by hand. Video never leaves your device. | MediaPipe · Three.js · Web Audio |
 
 <div align="center">
@@ -99,7 +99,6 @@ Computer Vision · 3D UI · NLP · Artificial Intelligence.
 | **[humor-project](https://github.com/S2chloeS2/humor-project)** | Three Next.js apps sharing one auth layer | Prompt chains as first-class data: flavour CRUD, step ordering, live generation. 79 commits |
 | **[transcripto-ai](https://github.com/S2chloeS2/transcripto-ai)** | Flask app, deployed | Whisper + AssemblyAI pipeline, grounded Q&A that declines to answer past the transcript, EN/KO |
 | **[squish-studio](https://github.com/S2chloeS2/squish-studio)** | The hand-tracked toy above | Soft-body deformation, a four-stage breakage state machine, procedural audio. ~2,500 lines, no TODO left in it, CDN versions pinned |
-| **[portfolio](https://github.com/S2chloeS2/portfolio)** | This site | 3D scene composition, scroll-scrubbed camera work, one config file as the source of truth |
 
 ## Also building
 
