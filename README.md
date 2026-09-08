@@ -54,7 +54,7 @@ thing as an app on the App Store, and I have done both.
 
 ## PLIORA — the one I am most proud of
 
-*Flutter · Dart · Supabase · private repo*
+*Flutter · Dart · Supabase · in development — screens only, the repo stays closed*
 
 A period diary that presents itself as an ordinary plant app. A decoy passcode opens a harmless
 surface — a snake plant you water — while the real records sit behind a second PIN and biometrics.
@@ -74,10 +74,12 @@ is about to send before it sends it — and nothing else.
 
 ## Vision · graphics · robotics
 
-**You Only Live Once** — a game agent that sees only pixels: RGB frame → YOLOv8 → policy network →
-action, with no access to internal game state. Detector reached 0.99+ mAP; deployed on GCP Cloud
-Run. Team of three; my part was the reinforcement learning — the PPO/DQN trainer and the agent
-module. *PyTorch · Ultralytics · Stable-Baselines3 · Gymnasium · OpenCV*
+**[You Only Live Once](https://github.com/gitgutgit/YOLO-You-Only-Live-Once)** — a game agent that
+sees only pixels: RGB frame → YOLOv8 → policy network → action, with no access to internal game
+state. Detector reached 0.99+ mAP; deployed on GCP Cloud Run. **Team of three** — mine was the
+detector training and evaluation (the final `train7` model, the automatic edge-case finder, and the
+comparison harness across four trained models) plus the policy/value network implementation.
+*PyTorch · Ultralytics · Stable-Baselines3 · Gymnasium · OpenCV*
 
 **Claythis** *(internship, San Francisco)* — Blender CLI automation for headless motion processing,
 finger retargeting across differing bone hierarchies, hand rigs optimised for minimum bone count
@@ -96,8 +98,6 @@ Computer Vision · 3D UI · NLP · Artificial Intelligence.
 |---|---|---|
 | **[humor-project](https://github.com/S2chloeS2/humor-project)** | Three Next.js apps sharing one auth layer | Prompt chains as first-class data: flavour CRUD, step ordering, live generation. 79 commits |
 | **[transcripto-ai](https://github.com/S2chloeS2/transcripto-ai)** | Flask app, deployed | Whisper + AssemblyAI pipeline, grounded Q&A that declines to answer past the transcript, EN/KO |
-| **[columbia-computer-animation](https://github.com/S2chloeS2/columbia-computer-animation)** | PA1–PA6 on the course `nemo` framework | Simulation and animation coursework in Python. 94 commits |
-| **[columbia-nlp](https://github.com/S2chloeS2/columbia-nlp)** | COMS 4705 | Trigram LM → neural dependency parser → LSTM caption generator → RAG |
 | **[squish-studio](https://github.com/S2chloeS2/squish-studio)** | The hand-tracked toy above | Soft-body deformation, a four-stage breakage state machine, procedural audio. ~2,500 lines, no TODO left in it, CDN versions pinned |
 | **[portfolio](https://github.com/S2chloeS2/portfolio)** | This site | 3D scene composition, scroll-scrubbed camera work, one config file as the source of truth |
 
