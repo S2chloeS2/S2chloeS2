@@ -19,11 +19,10 @@ I write the spec, design the screens, build the app, and ship it to real users �
 
 ## What I am pointed at
 
-**Vision, graphics and robotics** — that is the track, and it is where the coursework, the research
-and the internship all sit: neural rendering, deep learning for computer graphics, computer
-animation, computer vision, 3D UI. Detection into control (YOLOv8 → PPO/DQN, no access to game
-state). Rigs, retargeting and headless Blender pipelines at Claythis. Real-time hand tracking and
-soft-body simulation in the browser.
+**Vision, graphics and robotics** — that is the track, and it is where the work sits: deep learning
+for computer vision, computer animation, AI. Detection into control (YOLOv8 → policy network, no
+access to game state). Rigs, retargeting and headless Blender pipelines at Claythis. Real-time hand
+tracking and soft-body simulation in the browser.
 
 The other half is that I can carry a product the whole way. Research and a demo are not the same
 thing as an app on the App Store, and I have done both.
@@ -89,8 +88,9 @@ AI-generated 3D characters. Company work — described, not published.
 **VizWall** — StyleGAN3 + e4e face latent-space transformation.
 **Finalist, Columbia Visualization Wall Competition — "Art &amp; Futurism" ($500).**
 
-**Coursework** — Neural Rendering · Deep Learning for Computer Graphics · Computer Animation ·
-Computer Vision · 3D UI · NLP · Artificial Intelligence.
+**Coursework** — Deep Learning for Computer Vision · Artificial Intelligence · Computer Animation ·
+NLP · Designing for Generative AI · AI &amp; Photography · Human-Centered Design &amp; Innovation ·
+Innovation Design Lab · UI Design.
 
 ## Read the code
 
